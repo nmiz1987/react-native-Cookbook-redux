@@ -4,8 +4,8 @@ This is a simple app for food diary.
 The app uses:
 
 1. React Navigation:
-   a. Drawer Navigator.
-   b. Native Stack Navigator
+   I. Drawer Navigator.
+   II. Native Stack Navigator
 2. Redux Toolkit.
 
 ## Install
